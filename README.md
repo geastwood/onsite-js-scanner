@@ -23,3 +23,7 @@ Run the code on `yahoo.de` will generate the following output
 "lastApvTime", "defaultstatus", "defaultStatus", "screenLeft"
 ]
 ```
+
+# TODO
+
+* check how deep an object is defined
